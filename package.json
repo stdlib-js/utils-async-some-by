@@ -1,0 +1,43 @@
+{
+  "name": "@stdlib/utils-async-some-by",
+  "version": "0.0.0",
+  "description": "Test whether a collection contains `n` elements which pass a test implemented by a predicate function.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/utils-async-some-by.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdutils",
+    "stdutil",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "async",
+    "asynchronous",
+    "test",
+    "predicate",
+    "some",
+    "array.some",
+    "every",
+    "array.every",
+    "any",
+    "all",
+    "iterate",
+    "collection",
+    "array-like",
+    "validate"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
